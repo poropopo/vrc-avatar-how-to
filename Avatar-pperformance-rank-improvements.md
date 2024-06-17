@@ -29,9 +29,8 @@
 
 ## Avatar Optimizer
 
-[Avatar Optimizer](https://vpm.anatawa12.com/avatar-optimizer/ja/docs/reference/trace-and-optimize/)はアバターを非破壊で最適化することができるツール。アバターのゲームオブジェクトのルートに`AAO Trace And Optimize`を追加するだけで最適化ができる。
-![Avatar Optimizer Component](https://img.porop.top/aao-component.png
-)
+[Avatar Optimizer](https://vpm.anatawa12.com/avatar-optimizer/ja/docs/reference/trace-and-optimize/)はアバターを非破壊で最適化することができるツール。アバターのゲームオブジェクトのルートに`AAO Trace And Optimize`を追加するだけで最適化ができる。  
+![Avatar Optimizer Component](https://img.porop.top/aao-component.png)
 
 ## 不要なオブジェクトの削除
 
@@ -98,14 +97,13 @@ BoothからMantis LOD EditorのNDMF化ツールをダウンロードし、イン
 ### パラメータの調整
 
 Previewボタンをクリックしアバターを見ながら`NDMF Mantis LOD Editor`のパラメータを調整してポリゴン数を削減する。
-![Mantis LOD Editorのコンポーネント](https://img.porop.top/mantis-lod-editor-component.png)
+![Mantis LOD Editorのコンポーネント](https://img.porop.top/mantis-lod-editor-component.png)  
 適用前(3万△)
 ![Mantis LOD Editor適用前](https://img.porop.top/mantis-lod-before.png)
 
 適用後(2万△)
 ![Mantis LOD Editor適用後](https://img.porop.top/mantis-lod-after.png)
 このツールはオブジェクトの形によっては大きく見た目が変わることがあるので注意。
-
 
 ## その他
 
