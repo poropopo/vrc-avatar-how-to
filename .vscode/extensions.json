@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "bierner.markdown-preview-github-styles",
+        "takumii.markdowntable",
+        "davidanson.vscode-markdownlint",
+        "huntertran.auto-markdown-toc"
+    ]
+}
