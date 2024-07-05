@@ -7,3 +7,5 @@
 - [AvatarMenuCreater for Modular Avatarのインストール](./Install-AvatarMenuCreater.md)
 
 - [服やアイテムの出し入れを行う](./Create-Toggle-Menu.md)
+
+- [ブレンドシェイプやシェーダーパラメーターを操作する(製作中)](#)
