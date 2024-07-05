@@ -103,6 +103,7 @@ Gesture Managerやゲーム内で動作を確認して問題なければ完了�
 #### 設定の変更
 
 インスペクターで設定を変更する。
+
 ![Avatar Menu Creater for Modular Avatarによって生成されたメニューの設定](https://img.porop.top/Avatar-Menu-Creater-for-MA-settings-inspector.png)
 
 [戻る](./Create-Expression-Menu.md)
